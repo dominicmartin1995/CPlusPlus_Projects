@@ -1,0 +1,4 @@
+﻿  Chapter_3.cpp
+Chapter_3.obj : error LNK2005: "void __cdecl Problem1(void)" (?Problem1@@YAXXZ) already defined in Chapter_2.obj
+Chapter_3.obj : error LNK2005: _main already defined in Chapter_2.obj
+C:\Users\Dominic\Documents\GitHub\CPlusPlus_Projects\Chapters_2_3_4\Chapter_2\Debug\Chapter_2.exe : fatal error LNK1169: one or more multiply defined symbols found
